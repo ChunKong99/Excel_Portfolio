@@ -27,4 +27,4 @@
 1)  Pivot tables are created.
 2)  Slicers created are linked to all pivot tables.
 3)  All items except slicers are protected in the final Excel file, maintaining full interaction with slicers.
-![dashboard](images/dashboard_image.png)
+![dashboard](images/Dashboard_images.png)
