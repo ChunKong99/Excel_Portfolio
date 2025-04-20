@@ -10,7 +10,7 @@
 2)  Identify location of data: [Dataset] (https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 3)  Integrity, bias, and credibility
 -   Licensed under CCO: Public Domain license
--   Dataset is stored by user "Alex The Analyst" and made publicly accessible. Data integrity is acceptable based on business objectives
+-   Dataset is stored by user "Alex The Analyst" and made publicly accessible
 
 
 # Process
