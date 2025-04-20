@@ -27,4 +27,5 @@
 1)  Pivot tables are created.
 2)  Slicers created are linked to all pivot tables.
 3)  All items except slicers are protected in the final Excel file, maintaining full interaction with slicers.
+4)  Link to dashboard: [Dashboard] (https://github.com/ChunKong99/Excel_Portfolio/blob/main/dashboard/Dashboard.xlsx)
 ![dashboard](images/Dashboard_image.png)
