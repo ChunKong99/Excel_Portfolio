@@ -30,4 +30,6 @@
 4)  Link to dashboard: [Dashboard](https://github.com/ChunKong99/Excel_Portfolio/blob/main/dashboard/Dashboard.xlsx)
 
 ![dashboard](images/Dashboard_image.png)
---contact Chun Kong at 0111-2992771 for more data analysis work--
+
+
+--contact Chun Kong at +60 111-2992771 or i_am_gary_lai@yahoo.com for more data analysis work--
