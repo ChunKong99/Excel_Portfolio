@@ -7,7 +7,7 @@
 
 # Preparations
 1)  Identify publicly available data: Bike Sales Dataset
-2)  Identify location of data: [Dataset] (https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
+2)  Identify location of data: [Dataset](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 3)  Integrity, bias, and credibility
 -   Licensed under CCO: Public Domain license
 -   Dataset is stored by user "Alex The Analyst" and made publicly accessible
@@ -27,7 +27,7 @@
 1)  Pivot tables are created.
 2)  Slicers created are linked to all pivot tables.
 3)  All items except slicers are protected in the final Excel file, maintaining full interaction with slicers.
-4)  Link to dashboard: [Dashboard] (https://github.com/ChunKong99/Excel_Portfolio/blob/main/dashboard/Dashboard.xlsx)
+4)  Link to dashboard: [Dashboard](https://github.com/ChunKong99/Excel_Portfolio/blob/main/dashboard/Dashboard.xlsx)
 
 ![dashboard](images/Dashboard_image.png)
 --contact Chun Kong at 0111-2992771 for more data analysis work--
